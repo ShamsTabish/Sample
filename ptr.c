@@ -7,6 +7,6 @@ int main(){
 //	p=malloc(20);
 //	p=st;	
 //	st[0]='M';
-	printf("%c", str+2);
+	printf("%c is the result", str+2);
 	return 0;
 }
